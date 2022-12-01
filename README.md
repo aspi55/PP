@@ -1,2 +1,2 @@
-# PP
-Pet projects/home projects and others 
+# Celica window controller
+based on atmega 328
